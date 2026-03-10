@@ -1,1 +1,32 @@
-/* css styles */
+/* Custom professional styles */
+
+body {
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+h1, h2, h3, h4 {
+    font-weight: 600;
+    color: #2c3e50;
+}
+
+.about-link {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.about-link:hover {
+    text-decoration: underline;
+}
+
+.quarto-title-block .title {
+    color: #2c3e50;
+    font-size: 2.5rem;
+}
+
+/* Specific styling for navigation bar */
+.navbar {
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+}

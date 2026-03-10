@@ -1,0 +1,19 @@
+---
+title: "Teaching"
+---
+
+## University Name
+
+### Undergraduate
+- **Course Title 1**: Brief description of the course, your role (e.g., Instructor, TA), and the semester/year.
+- **Course Title 2**: Brief description of the course, your role, and the semester/year.
+
+### Graduate
+- **Advanced Course A**: Brief description of the course and your role.
+
+---
+
+## Workshops & Seminars
+
+- **Workshop Title**: Summary of the workshop you led or developed.
+- **Seminar Series**: Participation or organization of academic seminars.

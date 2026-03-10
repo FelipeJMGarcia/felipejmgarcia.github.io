@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Felipe José Miguel Garcia"
+  description: "Academic Researcher in Economics and Data Science."
   navbar:
     left:
       - href: index.qmd
@@ -12,13 +13,30 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
+      - href: teaching.qmd
+        text: Teaching
       - href: cv.qmd
         text: CV
+    right:
+      - icon: github
+        href: https://github.com/felipejmgarcia
+      - icon: twitter
+        href: https://twitter.com
+      - icon: envelope
+        href: mailto:your.email@example.com
+
+  page-footer:
+    left: "© 2024 Felipe José Miguel Garcia"
+    right: 
+      - icon: github
+        href: https://github.com/felipejmgarcia
+      - icon: twitter
+        href: https://twitter.com
 
 format:
   html:
-    theme: cosmo
+    theme: lux
+    css: styles.css
     toc: true
-
-
-
+    code-fold: true
+    link-external-newwindow: true

@@ -5,5 +5,124 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Course Title 1: Brief description of the course, your role (e.g., Instructor, TA), and the semester/year.\nCourse Title 2: Brief description of the course, your role, and the semester/year.\n\n\n\n\n\nAdvanced Course A: Brief description of the course and your role."
+  },
+  {
+    "objectID": "teaching.html#university-name",
+    "href": "teaching.html#university-name",
+    "title": "Teaching",
+    "section": "",
+    "text": "Course Title 1: Brief description of the course, your role (e.g., Instructor, TA), and the semester/year.\nCourse Title 2: Brief description of the course, your role, and the semester/year.\n\n\n\n\n\nAdvanced Course A: Brief description of the course and your role."
+  },
+  {
+    "objectID": "teaching.html#workshops-seminars",
+    "href": "teaching.html#workshops-seminars",
+    "title": "Teaching",
+    "section": "Workshops & Seminars",
+    "text": "Workshops & Seminars\n\nWorkshop Title: Summary of the workshop you led or developed.\nSeminar Series: Participation or organization of academic seminars."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Project Title 1: Brief description of the project and your role.\nProject Title 2: Brief description of the project and your role."
+  },
+  {
+    "objectID": "research.html#current-projects",
+    "href": "research.html#current-projects",
+    "title": "Research",
+    "section": "",
+    "text": "Project Title 1: Brief description of the project and your role.\nProject Title 2: Brief description of the project and your role."
+  },
+  {
+    "objectID": "research.html#past-research",
+    "href": "research.html#past-research",
+    "title": "Research",
+    "section": "Past Research",
+    "text": "Past Research\n\nPast Project A: Summary of findings or outcomes."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Felipe José Miguel Garcia",
+    "section": "",
+    "text": "I am an academic researcher focused on [Environmental Economics / Public Policy], with a particular interest in [e.g., Brazilian Amazon deforestation, public expenditure analysis]. My research combines [Econometrics / Data Science] with large-scale administrative datasets.\nCurrently, I am [Your Position] at [Your Institution]."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Felipe José Miguel Garcia",
+    "section": "",
+    "text": "I am an academic researcher focused on [Environmental Economics / Public Policy], with a particular interest in [e.g., Brazilian Amazon deforestation, public expenditure analysis]. My research combines [Econometrics / Data Science] with large-scale administrative datasets.\nCurrently, I am [Your Position] at [Your Institution]."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Felipe José Miguel Garcia",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nEnvironmental Economics: Deforestation dynamics, land use, and sustainability policies.\nPublic Policy Evaluation: Impact of government spending on regional development.\nData Science in Economics: Applied econometrics and causal inference."
+  },
+  {
+    "objectID": "index.html#latest-news",
+    "href": "index.html#latest-news",
+    "title": "Felipe José Miguel Garcia",
+    "section": "Latest News",
+    "text": "Latest News\n\nMarch 2026: Presented my work on Amazonian deforestation at [Conference Name].\nFebruary 2026: My new paper, “[Paper Title]”, was accepted for publication in [Journal Name]."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Felipe José Miguel Garcia",
+    "section": "Education",
+    "text": "Education\nUniversity Name | PhD in Economics | [Year] – [Year] University Name | MSc in Applied Economics | [Year] – [Year] University Name | BSc in Economics | [Year] – [Year]"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Felipe José Miguel Garcia",
+    "section": "Experience",
+    "text": "Experience\nOrganization Name | Research Associate | [Year] – Present Organization Name | Data Analyst | [Year] – [Year]"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Your Name, Co-author (Year). “Title of the Paper.” Journal Name. [DOI Link]\nCo-author, Your Name (Year). “Another Paper Title.” Journal Name. [DOI Link]"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-articles",
+    "href": "publications.html#peer-reviewed-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Your Name, Co-author (Year). “Title of the Paper.” Journal Name. [DOI Link]\nCo-author, Your Name (Year). “Another Paper Title.” Journal Name. [DOI Link]"
+  },
+  {
+    "objectID": "publications.html#working-papers",
+    "href": "publications.html#working-papers",
+    "title": "Publications",
+    "section": "Working Papers",
+    "text": "Working Papers\n\n“Title of the Working Paper.” (Status: Under review / In preparation)"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Click here to download my CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#short-bio",
+    "href": "cv.html#short-bio",
+    "title": "CV",
+    "section": "Short Bio",
+    "text": "Short Bio\nA brief version of your CV highlights…"
   }
 ]

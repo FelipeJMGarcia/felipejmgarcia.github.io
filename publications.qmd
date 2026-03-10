@@ -1,0 +1,12 @@
+---
+title: "Publications"
+---
+
+## Peer-Reviewed Articles
+
+1. **Your Name**, Co-author (Year). "Title of the Paper." *Journal Name*. [DOI Link]
+2. Co-author, **Your Name** (Year). "Another Paper Title." *Journal Name*. [DOI Link]
+
+## Working Papers
+
+- "Title of the Working Paper." (Status: Under review / In preparation)

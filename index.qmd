@@ -1,0 +1,53 @@
+---
+title: "Felipe José Miguel Garcia"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com/felipejmgarcia
+    - icon: google-scholar
+      text: Google Scholar
+      href: https://scholar.google.com
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0000-0000-0000-0000
+    - icon: envelope
+      text: Email
+      href: mailto:your.email@example.com
+---
+
+## Bio
+
+I am an academic researcher focused on [Environmental Economics / Public Policy], with a particular interest in [e.g., Brazilian Amazon deforestation, public expenditure analysis]. My research combines [Econometrics / Data Science] with large-scale administrative datasets.
+
+Currently, I am [Your Position] at [Your Institution].
+
+## Research Interests
+
+- **Environmental Economics**: Deforestation dynamics, land use, and sustainability policies.
+- **Public Policy Evaluation**: Impact of government spending on regional development.
+- **Data Science in Economics**: Applied econometrics and causal inference.
+
+## Latest News
+
+- **March 2026**: Presented my work on Amazonian deforestation at [Conference Name].
+- **February 2026**: My new paper, "[Paper Title]", was accepted for publication in *[Journal Name]*.
+
+## Education
+
+**University Name** | PhD in Economics | [Year] – [Year]
+**University Name** | MSc in Applied Economics | [Year] – [Year]
+**University Name** | BSc in Economics | [Year] – [Year]
+
+## Experience
+
+**Organization Name** | Research Associate | [Year] – Present
+**Organization Name** | Data Analyst | [Year] – [Year]
